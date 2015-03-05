@@ -266,6 +266,7 @@ input:focus {
 
 .button {
     outline: none;
+    text-indent: -99999999999px;
     
     border-radius: 50%;
     border: none;
